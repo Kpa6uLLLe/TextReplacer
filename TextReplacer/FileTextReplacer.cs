@@ -26,13 +26,17 @@ namespace TextReplacer
         {
             _log += $"{DateTime.Now} Started\nInitial folder: {_properties.Path}\n\n";
             MassReplace(_properties.Path, _properties.InitText, _properties.ReplacementText);
+            Log();
+        }
+        private void Log()
+        {
             string logsDirectoryPath = Path.Combine(Environment.CurrentDirectory, "Logs");
-            if(!Directory.Exists(logsDirectoryPath))
+            if (!Directory.Exists(logsDirectoryPath))
             {
                 Directory.CreateDirectory(logsDirectoryPath);
             }
             string logPath = Path.Combine(logsDirectoryPath, $"Log-{_logIndex}.txt");
-            while(File.Exists(logPath))
+            while (File.Exists(logPath))
             {
                 _logIndex++;
                 logPath = Path.Combine(Environment.CurrentDirectory, "Logs", $"Log-{_logIndex}.txt");
