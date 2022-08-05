@@ -1,0 +1,18 @@
+04.08.2022 18:06:35 Started
+Initial folder: G:\\ds\\ddsda\\bib
+
+Successful replacement on file G:\\ds\\ddsda\\bib\111231.txt .
+                  0 occurences of 'ds' have been changed to 'lupus'
+                  
+
+
+Successful replacement on file G:\\ds\\ddsda\\bib\dsds1.txt .
+                  0 occurences of 'ds' have been changed to 'lupus'
+                  
+
+
+Successful replacement on file G:\\ds\\ddsda\\bib\fdsd.txt .
+                  0 occurences of 'ds' have been changed to 'lupus'
+                  
+
+

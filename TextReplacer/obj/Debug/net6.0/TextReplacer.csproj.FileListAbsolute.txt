@@ -1,0 +1,15 @@
+C:\repos\TextReplacer\TextReplacer\TextReplacer\bin\Debug\net6.0\TextReplacer.exe
+C:\repos\TextReplacer\TextReplacer\TextReplacer\bin\Debug\net6.0\TextReplacer.deps.json
+C:\repos\TextReplacer\TextReplacer\TextReplacer\bin\Debug\net6.0\TextReplacer.runtimeconfig.json
+C:\repos\TextReplacer\TextReplacer\TextReplacer\bin\Debug\net6.0\TextReplacer.dll
+C:\repos\TextReplacer\TextReplacer\TextReplacer\bin\Debug\net6.0\TextReplacer.pdb
+C:\repos\TextReplacer\TextReplacer\TextReplacer\obj\Debug\net6.0\TextReplacer.csproj.AssemblyReference.cache
+C:\repos\TextReplacer\TextReplacer\TextReplacer\obj\Debug\net6.0\TextReplacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\TextReplacer\TextReplacer\TextReplacer\obj\Debug\net6.0\TextReplacer.AssemblyInfoInputs.cache
+C:\repos\TextReplacer\TextReplacer\TextReplacer\obj\Debug\net6.0\TextReplacer.AssemblyInfo.cs
+C:\repos\TextReplacer\TextReplacer\TextReplacer\obj\Debug\net6.0\TextReplacer.csproj.CoreCompileInputs.cache
+C:\repos\TextReplacer\TextReplacer\TextReplacer\obj\Debug\net6.0\TextReplacer.dll
+C:\repos\TextReplacer\TextReplacer\TextReplacer\obj\Debug\net6.0\refint\TextReplacer.dll
+C:\repos\TextReplacer\TextReplacer\TextReplacer\obj\Debug\net6.0\TextReplacer.pdb
+C:\repos\TextReplacer\TextReplacer\TextReplacer\obj\Debug\net6.0\TextReplacer.genruntimeconfig.cache
+C:\repos\TextReplacer\TextReplacer\TextReplacer\obj\Debug\net6.0\ref\TextReplacer.dll
