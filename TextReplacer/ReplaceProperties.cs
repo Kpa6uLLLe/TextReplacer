@@ -8,7 +8,7 @@ namespace TextReplacer
 {
     public class ReplaceProperties
     {
-        public string? Path { get; set; }
+        public string Path { get; set; } = "";
         public string InitText { get; set; } = "";
         public string ReplacementText { get; set; } = "";
     }
