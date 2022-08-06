@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1/dW9N/6tXh/NH5hx5HJ7cUEZgYm84jj0Rv57GHsZOiXbrAjNH1EHzKYnSBlmVFbhx7WE4C1IkLOOu4HiT5fIQ==",
+  "dgSpecHash": "IWpa46Zz+LOh8GGN6A8ka/16G8qTt/bWjW9XMnFRI5ese21t04g1AspJH/j2zRRPnIR+jVAmib1iy5n46HsEIw==",
   "success": true,
   "projectFilePath": "C:\\repos\\TextReplacer\\TextReplacer\\TextReplacer\\TextReplacer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
   "logs": []
 }

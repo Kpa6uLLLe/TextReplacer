@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TextReplacer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
